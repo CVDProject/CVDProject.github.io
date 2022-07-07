@@ -1,0 +1,81 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Entrata
+  category: Categoria
+  tag: Etichetta
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Principale
+  categories: Categorie
+  tags: Etichette
+  archives: Archivio
+  about: Info
+
+# the text displayed in the search bar & search results
+search:
+  hint: Ricerca
+  cancel: Annulla
+  no_results: Oops! Non ci sono risultati.
+
+panel:
+  lastmod: Aggiornati di recente
+  trending_tags: Etichette più frequenti
+  toc: Contenuti
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Questa entrata è rilascata sotto la licenza :LICENSE_NAME.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Displayed in the footer
+  brief: A cura di Giovanni Giacalone.
+  verbose: >-
+
+meta: Alimentato da :PLATFORM con il motore :THEME.
+
+not_found:
+  statment: Questo URL punta a qualcosa che non esiste.
+
+notification:
+  update_found: Una nuova versione di contenuti è disoonibile
+  update: Aggiorna
+
+# ----- Posts related labels -----
+
+post:
+  written_by: Scritto da
+  posted: Pubblicato
+  updated: Aggiornato
+  words: parole
+  pageview_measure: visualizzazioni
+  read_time:
+    unit: min
+    prompt: read
+  relate_posts: Further Reading
+  share: Condividi
+  button:
+    next: Successivo
+    previous: Precedente
+    copy_code:
+      succeed: Copiato!
+    share_link:
+      title: Copia Link
+      succeed: Link copiato con successo!
+  # pinned prompt of posts list on homepage
+  pin_prompt: Fissato in alto
+
+# categories page
+categories:
+  category_measure:
+    singular: categoria
+    plural: categorie
+  post_measure:
+    singular: entrata
+    plural: entrate
