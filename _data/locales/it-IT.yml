@@ -57,8 +57,8 @@ post:
   pageview_measure: visualizzazioni
   read_time:
     unit: min
-    prompt: read
-  relate_posts: Further Reading
+    prompt: lettura
+  relate_posts: Leggi anche
   share: Condividi
   button:
     next: Successivo
