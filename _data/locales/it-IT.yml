@@ -35,7 +35,7 @@ copyright:
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: A cura di Giovanni Giacalone.
+  brief: Alcuni diritti riservati.
   verbose: >-
 
 meta: Alimentato da :PLATFORM con il motore :THEME.
@@ -50,7 +50,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: Scritto da
+  written_by: A cura di
   posted: Pubblicato
   updated: Aggiornato
   words: parole
